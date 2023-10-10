@@ -1,4 +1,4 @@
-# Olá! Eu sou Fabricio Silva, desenvolvedor full-stack web. Atualmente trabalho com as linguagens JavaScript de PHP, utilizo também outras ferramentas que completam todo desenvolvimento como podem ver abaixo. Estou na área faz 1 ano, buscando cada vez mais conhecimento que me diferenciem no mercado.
+# Olá! Eu sou Fabricio Silva, desenvolvedor full-stack web. Atualmente trabalho com as linguagens JavaScript e PHP, utilizo também algumas ferramentas que completam todo desenvolvimento como podem ver abaixo. Estou na área faz 1 ano, buscando cada vez mais conhecimento que me diferenciem no mercado.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciodev28&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodev28&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
