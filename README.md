@@ -1,4 +1,4 @@
-# Olá! Eu sou Fabricio Silva, desenvolvedor back-end. Atualmente trabalho com as linguagens JavaScript, PHP e NodeJS, utilizo também algumas ferramentas que completam todo desenvolvimento como podem ver abaixo.
+# Olá! Eu sou Fabricio Silva, desenvolvedor back-end. Atualmente trabalho com as linguagens JavaScript, PHP e NodeJS, utilizo também algumas ferramentas que completam todo desenvolvimento web como React e banco de dados como MongoDB e MySQL.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciodev28&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodev28&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
