@@ -1,5 +1,5 @@
 # Olá! Eu sou Fabricio Silva, desenvolvedor back-end. Atualmente trabalho com NodeJS e PHP, utilizo também algumas ferramentas que completam todo desenvolvimento web como React e banco de dados como MongoDB e MySQL.
-
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=fabriciodev28&show_icons=true&theme=github_dark)
 
 ### Linguagens e ferramentas
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
