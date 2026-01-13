@@ -1,5 +1,4 @@
 # Olá! Eu sou Fabricio Silva, desenvolvedor back-end. Atualmente trabalho com NodeJS e PHP, utilizo também algumas ferramentas que completam todo desenvolvimento web como React e banco de dados como MongoDB e MySQL.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciodev28&show_icons=true&theme=tokyonight)
 
 
 ### Linguagens e ferramentas
